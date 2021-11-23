@@ -1,2 +1,11 @@
-# Arquitectura_Parcial_03
-Se realiza una implementación de tres programas codificados en distintos lenguajes de programación (Python,  C++ y C). Que calculan el costo temporal  de 30 repeticiones individúales al ejecutar el clásico proceso de multiplicación de matrices de un tamaño registrado por consola mediante un lanzador que automatiza el proceso de las tomas de rendimiento para 5 tamaños de matrices distintos (200, 400, 600, 800 y 1000).
+# Arquitectura de computadores
+
+***Profesor:***
+> John Jairo Corredor Franco
+
+
+***Presentan:***
+> Andrés Camilo Cárdenas Melo
+> Brayan Stiven Castañeda Cruz
+> Juan Sebastian Rojas Acevedo
+> Roxanyffer Andreina Velasco Contreras
